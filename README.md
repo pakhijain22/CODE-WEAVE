@@ -88,10 +88,4 @@ a working demo for a perfect one.
 - Optional room passwords / private rooms
 - Maybe a lightweight AI assistant that can explain code or summarize the doc
 
-## The team
 
-Built by **[Team Name]** — [Member 1], [Member 2], and [Member 3] — over
-[Hackathon Name].
-
-If you poke around the code and find something confusing, broken, or just
-want to say hi, open an issue. We'd genuinely love to hear about it.
