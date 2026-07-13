@@ -1,12 +1,6 @@
 # Code Weave ✎
 
 **Write, code, and think together — in real time.**
-
-We've all been there: your team's doc is in one tab, your code editor is in
-another, and you're coordinating over WhatsApp in a third. So during a
-hackathon, we got tired of tab-switching and built the thing we actually
-wanted — one room where you can write, code, run it, and talk about it,
-without ever leaving the page.
 ---
 ## What it actually does
 Open the link, create a room (or join one with just a Room ID — no account
